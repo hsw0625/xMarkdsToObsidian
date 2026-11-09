@@ -1,0 +1,11 @@
+node_modules/
+output/
+.env*
+!.env.example
+.DS_Store
+.local/
+
+# Local account-specific validation history
+POC-RESULTS.md
+SYNC-RESULTS.md
+*.log
